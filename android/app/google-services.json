@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332575150969",
+    "project_id": "redit-46f21",
+    "storage_bucket": "redit-46f21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332575150969:android:7b294f2a2053f7bd7755a8",
+        "android_client_info": {
+          "package_name": "com.example.redit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332575150969-rma4narhpq6cshpa66ev9fm51fo5ra7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redit",
+            "certificate_hash": "ffd7fee673fe706507302ce4d0d4a5c0436fc10b"
+          }
+        },
+        {
+          "client_id": "332575150969-4dqj0mmmv2g4435fg8lijd7ddvuak5ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0ImxDDNMENfPJih8bozX-rP1b5mApgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332575150969-4dqj0mmmv2g4435fg8lijd7ddvuak5ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
